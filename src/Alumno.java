@@ -1,0 +1,3 @@
+clase simple
+nombre
+edad
