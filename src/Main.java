@@ -1,4 +1,4 @@
-System.out.println("Hola mundo");
+System.out.println("Sistema Escolar V1.0 - Iniciando...");
 Objeto alumnos
 
 
